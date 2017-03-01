@@ -1,0 +1,27 @@
+Feedback 
+
+Project Synopsis - Good Understanding.  (5/5)
+
+Project Plan - Better plan needed. (9/10)
+
+SRS - Initial documentation shows a need for better planning. And a throough
+research into possible solutions. (22/25) Revised Documentation improves but
+still needs better planning (23/25) 
+
+Design Document - Easy to implement design. (23/25)
+
+Status Report 1,2,3,4 - 5/5,5/5,5/5,4/5 Exhaustive Status Tracking. Work done
+is sparse in the last few weeks. 
+
+Test Plan - Missing! (0/20)
+
+R1 - The presentation was good. Team showed confidence and they were well
+prepared. Work done upto R1 was less however. More work could have been
+accomplished. Team did not come up with their own solution however and were
+content to go along with the clients request which was to replicate existing
+product. 51/55 
+
+R2 - Presentation shows good progress in work. Though the client bailed out,
+the team tried to complete all the work on their own which was good and kept in
+touch with the client themselves.  
+and solutions for the project. 
